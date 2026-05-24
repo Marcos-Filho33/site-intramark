@@ -403,7 +403,7 @@ export default function Home() {
           </div>
           <div className="flex flex-wrap gap-4 text-sm text-white/70">
             <a href={`https://wa.me/${whatsappNumber}`} className="transition hover:text-white">WhatsApp</a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="transition hover:text-white">Instagram</a>
+            <a href="https://www.instagram.com/intramark_tech?igsh=MTFwZXo3MWg5dnBvZw==" target="_blank" rel="noopener noreferrer" className="transition hover:text-white">Instagram</a>
           </div>
         </div>
       </footer>
